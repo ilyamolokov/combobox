@@ -1,0 +1,13 @@
+
+
+.dropdown {
+    list-style-type: none;
+    padding:0px;
+}
+.dropdown-item {
+    cursor: pointer;
+    padding:3px 0px;
+}
+.dropdown-item:hover {
+    background-color: #D3D3D3;
+}
